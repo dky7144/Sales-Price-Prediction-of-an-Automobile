@@ -1,1 +1,1 @@
-# Sales-Price-Pridiction-of-an-Automobile
+# Sales-Price-Prediction-of-an-Automobile
